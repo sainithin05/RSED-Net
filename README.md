@@ -6,6 +6,10 @@ Official implementation of **RSED-Net: Residual Shared Encoder Dual Decoder Netw
 
 RSED-Net is a deep learning framework designed for low-light image enhancement. The network employs a shared encoder, dual decoder architecture, and CBAM attention modules to improve image brightness, contrast, and visual quality while preserving details.
 
+## Architecture
+
+![RSED-Net Architecture](paper/architecture.png)
+
 ## Features
 
 * Shared Encoder Architecture
