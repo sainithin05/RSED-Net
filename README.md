@@ -1,6 +1,6 @@
-# RSED-Net
+# ReSED-Net
 
-Official implementation of **RSED-Net: Residual Shared Encoder Dual Decoder Network for Low-Light Image Enhancement**.
+Official implementation of **ReSED-Net: Residual Shared Encoder Dual Decoder Network for Low-Light Image Enhancement**.
 
 ## Overview
 
@@ -65,8 +65,8 @@ Experimental results and qualitative comparisons will be provided in the reposit
 If you use this work, please cite the corresponding paper.
 
 
-@article{rsednet2026,
+@article{resednet2026,
   title={RSED-Net: Residual Shared Encoder Dual Decoder Network for Low-Light Image Enhancement},
-  author={Sai Nithin Sagar},
+  author={Maloth Vijaya, D Sai Nithin Sagar},
   year={2026}
 }
